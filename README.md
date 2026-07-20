@@ -83,7 +83,7 @@ This project is built using HTML, CSS and JavaScript to create a working **Task 
 - HTML5
 - CSS3
 - JavaScript (ES6)
-- Browser `localStorage` API
+- Browser localStorage
 
 ---
 
