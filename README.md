@@ -171,7 +171,7 @@ task-manager/
 
 | | |
 |---|---|
-| 🔗 Live Demo | [Task Manager Website](https://task-manager-website-project.netlify.app/) |
+| 🔗 Live Demo | [Task Manager Website](https://task-manager-project-website.netlify.app/) |
 | 🔗 Project Video | [Task Manager Video](https://drive.google.com/file/d/1B3KX8Ch9Zk3mOnKbq5PUJhUDO0VQG1i6/view?usp=sharing) |
 | 🎥 Project Explanation Video | [Explanation Video](https://drive.google.com/file/d/1qO8Iqycc8W267lsIE-Ck6Urds1ZJNoJ7/view?usp=sharing) |
 
